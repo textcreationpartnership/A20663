@@ -1,0 +1,610 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of the deputies of the high and mightie States Generall of the Vnited Prouinces And of the reuerend and learned diuines, who now are met in the nationall synode. Celebrated in the citie of Dordrecht in  Holland. Translated out of the Latin and Dutch copies. With a short narration of the occasions, and introduction of the said synodicall assembly.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1618</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20663</idno>
+            <idno type="STC">STC 7065</idno>
+            <idno type="STC">ESTC S110088</idno>
+            <idno type="EEBO-CITATION">99845705</idno>
+            <idno type="PROQUEST">99845705</idno>
+            <idno type="VID">10624</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20663)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10624)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1234:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of the deputies of the high and mightie States Generall of the Vnited Prouinces And of the reuerend and learned diuines, who now are met in the nationall synode. Celebrated in the citie of Dordrecht in  Holland. Translated out of the Latin and Dutch copies. With a short narration of the occasions, and introduction of the said synodicall assembly.</title>
+               </titleStmt>
+               <extent>[8], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. I[ones] for Nich. Bourne, and Nath. Newberie, and are to be sold at the Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1618.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Synod of Dort (1618-1619) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:10624:1"/>
+            <pb facs="tcp:10624:1" rendition="simple:additions"/>
+            <p>
+               <hi>A</hi> CATALOGVE OF THE DEPVTIES OF THE HIGH AND MIGH<g ref="char:EOLhyphen"/>TIE STATES GENERALL OF THE VNITED <hi>Prouinces.</hi>
+            </p>
+            <p>
+               <hi>AND</hi> Of the Reuerend and Learned DIVINES, who now are met in the <hi>Nationall Synode.</hi>
+            </p>
+            <p>Celebrated in the Citie of <hi>Dordrecht</hi> IN HOLLAND.</p>
+            <p>Tranſlated out of the Latin and Dutch Copies.</p>
+            <p>
+               <hi>With</hi> A SHORT NARRATION OF the occaſions, and Introduction of the ſaid <hi>Synodicall Aſſembly.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>LONDON, Printed by W. I. for <hi>Nich. Bourne,</hi> and <hi>Nath. Newberie,</hi> and are to be ſold at the <hi>Exchange.</hi> 1618.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:10624:2"/>
+            <pb facs="tcp:10624:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <note place="margin">Stratageme of the diuel.</note>
+               <seg rend="decorInit">T</seg>HE chiefeſt <hi>Stratageme</hi> of the Diuell, againſt the Kingdom, Citie, and Houſe of God, is, <hi>Contention</hi> and <hi>Diuiſion,</hi> Mat. 12. yet the Lord in his admi<g ref="char:EOLhyphen"/>rable wiſdome knoweth how to exerciſe his children ther<g ref="char:EOLhyphen"/>by, and to make manifeſt thoſe which are approoued, 1. Cor. 11.19.</p>
+            <p>
+               <note place="margin">Antiochian diſtention.</note>This Stratageme hath beene vſed by him, euen from the beginning, vntill this crooked Age of ours. In the dayes of the Apoſtles no ſmall diſten<g ref="char:EOLhyphen"/>tion and diſputation was rayſed in that famous Church of <hi>Antiochia,</hi> whereof the chiefe Author was (as <hi>Epiphanius</hi> recordeth) that peruerſe Here<g ref="char:EOLhyphen"/>ticke and ſonne of the diuell, <hi>Corinthus,</hi> who af<g ref="char:EOLhyphen"/>ter his diſturbing of Gods houſe, was bruiſed to death by the fall of a houſe.</p>
+            <p>It appeareth by the holy Hiſtorie written by S. <hi>Luke,</hi>
+               <note place="margin">Diſturbers.</note> that the diſturbers of the Antiochian Church, came with a faire ſhew, were adorned with the title of Teachers, and were called by the name of Beleeuers, no leſſe then others.</p>
+            <p>It is alſo to bee noted, that thoſe who now di<g ref="char:EOLhyphen"/>ſturbe
+<pb facs="tcp:10624:3"/>the peace of Sion, want no titles nor faire appearance.</p>
+            <p>
+               <note place="margin">Parties diſ<g ref="char:EOLhyphen"/>turbed.</note>The parties diſturbed are called <hi>Brethren,</hi> wher<g ref="char:EOLhyphen"/>by it appeareth, that the diuell our aduerſarie, ſee<g ref="char:EOLhyphen"/>keth to ſow controuerſies, euen amongſt thoſe, who many wayes are bound to mutuall loue and amitie.</p>
+            <p>
+               <note place="margin">The queſtion.</note>The matter in queſtion was a point of doctrine, and therefore S. <hi>Paul</hi> and <hi>Barnabe</hi> preſently oppo<g ref="char:EOLhyphen"/>ſed themſelues thereunto, with diligent enquirie and powerful Confutations: for no delay is war<g ref="char:EOLhyphen"/>rantable in the diſcouering of falſe brethren and griping Wolues.</p>
+            <p>This faithfull oppoſition litle preuailing,<note place="margin">Synode</note> the reſolution of the Antiochian Church was, to refer the matter vnto a greater aſſembly or meeting of the Apoſtles and other beleeuers. Which procee<g ref="char:EOLhyphen"/>ding hath ſince bin vſed in the primitiue Church with excellent ſucceſſe, for our imitation.</p>
+            <p>
+               <note place="margin">At Ieruſa<g ref="char:EOLhyphen"/>lem.</note>The fitteſt place was reputed Ieruſalem, where both parties came, and liberty was giuen freely to lay open &amp; debate their Queſtions and opinions.</p>
+            <p>The Preſident of that holy Aſſembly was S. <hi>Iames</hi> ſonne of <hi>Alphaeus,</hi>
+               <note place="margin">Preſident.</note> who with his brethren, vn<g ref="char:EOLhyphen"/>derſtanding the ſtate of the queſtion, examined the ſame on the touchſtone of Gods holy Word: and finally concluded,<note place="margin">Concluſion.</note> That Saluation was onely to be ſought and found in Ieſus Chriſt, &amp;c. and not partly in the Ceremonies of the Law. Wherunto was added very ſound counſell for the re-eſtabli<g ref="char:EOLhyphen"/>ſhing of peace in the Church, and for the preuen<g ref="char:EOLhyphen"/>ting of future Contentions.</p>
+            <pb facs="tcp:10624:3"/>
+            <p> This patterne of holy meeting,<note place="margin">Imitation.</note> is now imitated by the Vnited Prouinces, being admoniſhed ther<g ref="char:EOLhyphen"/>unto by diuers letters of reformed Chriſtian Prin<g ref="char:EOLhyphen"/>ces, but chiefly of his Sacred Maieſtie of Great Brittaine, who by his owne Writings, and by the mouth of his Ambaſſadours hath wrought much in the furthering of this great Buſineſſe, whereby Gods cauſe is faithfully defended,<note place="margin">Vtility.</note> and from whence is expected a worthy Vnion in the refor<g ref="char:EOLhyphen"/>med Churches, to the ouerthrow of the Romiſh Antichriſt, who ſince his Reuelation hath decei<g ref="char:EOLhyphen"/>ued the world with the vaine glorie of Generall Councels: whereas it is manifeſt,<note place="margin">The abuſe of Popery in Synodes.</note> 1. That Synodes were not ordained by him, to cleare or confirme any points of true Doctrine by the Word of God, but for to oppoſe himſelfe thereunto: and for to confirme his receiued errors; yea for to coyne new Articles of faith.</p>
+            <p>Beſides, no libertie was graunted in thoſe Sy<g ref="char:EOLhyphen"/>nodes to ſpeake, vnleſſe it were with danger of life, as it fell out in the Councell of Conſtance, where <hi>Iohannes Hus,</hi> and <hi>Hieronymus</hi> of Prage were bur<g ref="char:EOLhyphen"/>ned, for maintaining of true Doctrine againſt Po<g ref="char:EOLhyphen"/>piſh errours.</p>
+            <p>Finally, the meeting of Cardinals and ſhauen Prieſt is to no purpoſe, whereas the Pope profeſ<g ref="char:EOLhyphen"/>ſeth himſelfe to bee the onely man, from whoſe breaſt and breath is to bee expected infallible trueth.</p>
+            <p>
+               <note place="margin">Place of the Synode.</note>THe place of meeting is the citie of Dort, or Dordrecht, which is reputed to be the aunci<g ref="char:EOLhyphen"/>enteſt
+<pb facs="tcp:10624:4"/>of Holland, and hath the firſt place in the Aſſembly of States.</p>
+            <p>A great and faire Hall is prepared, with conue<g ref="char:EOLhyphen"/>nient Seates for thoſe that are deputed, and Gal<g ref="char:EOLhyphen"/>leries erected for the hearers: in a place called <hi>De Doelen,</hi> that is, the Artillerie garden.</p>
+            <p>The firſt day of Nouember was appointed for the firſt Seſſion,<note place="margin">Time.</note> but it was deferred vntill the 13. of the ſaid moneth, expecting ſome that were not yet arriued.</p>
+            <p>
+               <note place="margin">Sermons preparatory 1. Seſſion the 13. of Nouemb.</note>The 13. at eight of the clocke in the morning two Sermons were made, the one in Dutch, the other in French, accommodated vnto the inſtant action, with very feruent prayers vnto God for the direction of his holy Spirit.</p>
+            <p>Theſe Sermons beeing finiſhed: from euery Prouince were appointed two, for to conduct thoſe forraine Diuines into their ſeuerall Seates,<note place="margin">Deduction to their Seates. Oration of <hi>Balthaſar Lydius.</hi>
+               </note> which was performed with good order and great reuerence: the order is expreſſed hereafter.</p>
+            <p>The firſt perſon appointed to ſpeake was <hi>Bal<g ref="char:EOLhyphen"/>thaſar Lydius</hi> one of the Miniſters of Dort, who made a worthy Oration in Latin vnto the Aſſem<g ref="char:EOLhyphen"/>bly, and a feruent prayer vnto God for the ſame, and concluded with thankſgiuing vnto the States generall, that they had honoured him, to let his voyce firſt be heard in ſuch an honorably Aſſem<g ref="char:EOLhyphen"/>bly.</p>
+            <p>
+               <note place="margin">Oration of the States.</note>Whereupon one of the Deputies of the States generall roſe, and made a worthy Speach vnto the Aſſembly, opening the cauſes of this meeting, and giuing thankes vnto the forraine Diuines,
+<pb facs="tcp:10624:4"/>that they were come from ſo farre diſtant places, in ſuch an vnſeaſonable time: promiſing euer to be thankfull for the ſame, &amp;c. And hereupon was read the Letter of the States generall, expounding their intention and will concerning the Aſſembly.</p>
+            <p>
+               <note place="margin">
+                  <hi>2.</hi> Seſſion the <hi>14.</hi> of Nouember.</note>The next day following, by ſecret voyces or ſuffrages, were choſen one Preſident of the Aſſem<g ref="char:EOLhyphen"/>bly, two Aſſiſtants, and two Secretaries or Nota<g ref="char:EOLhyphen"/>ries, whoſe names are hereafter expreſſed.</p>
+            <p>Theſe beeing elected, they were placed in the roome or ſeates appointed for them: and deman<g ref="char:EOLhyphen"/>ded in order the Letters of Credence of thoſe that were come to the Aſſembly which were read in the full Audience:<note place="margin">Literae fidu<g ref="char:EOLhyphen"/>ciales.</note> And the matter at that time re<g ref="char:EOLhyphen"/>ſolued vpon, was, that all the Miniſters Remon<g ref="char:EOLhyphen"/>ſtrants,<note place="margin">Remon<g ref="char:EOLhyphen"/>ſtrants cited.</note> or <hi>Arminians</hi> ſhould be cited, and that they themſelues might make choice of the fitteſt a<g ref="char:EOLhyphen"/>mongſt them, for to propound, expound, and de<g ref="char:EOLhyphen"/>fend their Doctrine before the Aſſembly, with due reuerence and order. And all this is to bee done publikely for the inſtruction of all thoſe that vn<g ref="char:EOLhyphen"/>derſtand the Latine tongue, who from all parts re<g ref="char:EOLhyphen"/>ſort thither in great multitudes.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catalogue_of_deputies">
+            <pb facs="tcp:10624:5"/>
+            <pb facs="tcp:10624:5"/>
+            <head>THE NAMES OF THE DEPVTIES OF THE MOST NOBLE, Illuſtrious, and puiſſant STATES <hi>Generall.</hi>
+            </head>
+            <list>
+               <item>1. From the Dukedome of Gelder-land, and Countie of Sutphen:
+<list>
+                     <item>
+                        <hi>MArtinus Gregorii,</hi> Doctor in the Law, chiefe Councelor in the Court of the Dukedome of Geldria.</item>
+                     <item>
+                        <hi>Henricus ab Eſſen,</hi> Councellor in the Court of the Dukedome of Geldria.</item>
+                  </list>
+               </item>
+               <item>2. <hi>From Holland and Weſt-Friezland.</hi>
+                  <list>
+                     <item>
+                        <hi>Walraue de Brederode,</hi> Baron of Viana and A<g ref="char:EOLhyphen"/>meyde, Vicount of Vtrecht, &amp;c.</item>
+                     <item>
+                        <hi>Hugo Muys</hi> of Holy Knight, Sheriffe of Dort: and in his abſence,</item>
+                     <item>
+                        <hi>Cornelius Franciſci de Wit,</hi> Bourg-Maſter of the ſaid Citie.</item>
+                     <pb n="2" facs="tcp:10624:6"/>
+                     <item> 
+                        <hi>Iacobus Boulenius,</hi> Bourgmaſter of Amſterdam.</item>
+                     <item>
+                        <hi>Geerardus de Nieubourg,</hi> Bourgmaſter of Alck<g ref="char:EOLhyphen"/>mar.</item>
+                     <item>
+                        <hi>Rochus ab Honert,</hi> chiefe Councelor in the high Court of Holland, Seeland, and Weſt-Frieſland.</item>
+                     <item>
+                        <hi>Nicholaus Cromholt,</hi> chiefe Councelor in the pro<g ref="char:EOLhyphen"/>uinciall Court of Holland, Seeland, and Weſt-Frieſland.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>3</hi> From Seeland.
+<list>
+                     <item>
+                        <hi>Symon Schot,</hi> Doctor in the Lawes, and Secreta<g ref="char:EOLhyphen"/>rie of Middelbourg.</item>
+                     <item>
+                        <hi>Iacobus à Campe,</hi> Doctor in the Lawes, and Coun<g ref="char:EOLhyphen"/>celor of the States of Seeland.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>4</hi> From Vtrecht.
+<list>
+                     <item>
+                        <hi>Fredericus de Suylen, à Nievelt,</hi> Lord of Aertſ<g ref="char:EOLhyphen"/>berg, Brekewoude, &amp;c.</item>
+                     <item>
+                        <hi>Gulielmus de Hardevelt,</hi> Bourgmaſter of Amers<g ref="char:EOLhyphen"/>fort.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>5</hi> From Frieſland.
+<list>
+                     <item>
+                        <hi>Erneſtus ab Aylua,</hi> Councelour of the States of Frieſland.</item>
+                     <item>
+                        <hi>Erneſtus ab Harinxma,</hi> chiefe Councellour in the prouinciall Court of Frieſland.</item>
+                  </list>
+               </item>
+               <pb n="3" facs="tcp:10624:6"/>
+               <item> 
+                  <hi>6</hi> From Oueryſell.
+<list>
+                     <item>
+                        <hi>Henricus Hagen,</hi> Lord of Vollenhoue, Knight.</item>
+                     <item>
+                        <hi>Iohannes ab Hemert,</hi> Bourgmaſter of Deuenter, one of the States generall.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>7</hi> From Groeningen and Omlands.
+<list>
+                     <item>
+                        <hi>Hieronymus Isbrants,</hi> Doctor in the Lawes, Coun<g ref="char:EOLhyphen"/>celor in the Chamber of Accounts of the States generall.</item>
+                     <item>
+                        <hi>Edzardus Iacobus Clant,</hi> Lord in Eſſinge, and Sandweer.</item>
+                     <item>
+                        <hi>Daniel Heynſius,</hi> Profeſſor in Hiſtorie, Secretarie, and Bibliothecarie of the Vniuerſitie of Leyden: appointed alſo to be Secretaty and Notarie in this Aſſembly.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <pb n="4" facs="tcp:10624:7"/>
+               <head>THE REVEREND FAMOVS AND LEARNED Diuines from forraine Parts ſent to <hi>this Nationall Synode, at the re<g ref="char:EOLhyphen"/>queſt of the Illuſtrious</hi> States Generall.</head>
+               <item>
+                  <hi>1</hi> From the moſt Illuſtrious, and moſt mighty King of Great Brittaine.
+<list>
+                     <item>
+                        <hi>GEorgius,</hi> Biſhop of Landaf.</item>
+                     <item>
+                        <hi>Ioſephus Hall,</hi> Doctor in Diuinitie, and Deane of Worceſter.</item>
+                     <item>
+                        <hi>Iohannes Davenot,</hi> Doctor in Diuinity, Profeſ<g ref="char:EOLhyphen"/>ſor in the Vniuerſitie of Cambridge, &amp;c.</item>
+                     <item>
+                        <hi>Samuel Ward,</hi> Doctor in Diuinitie, and Preſident of <hi>Sidney</hi> Colledge.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>2</hi> From the Illuſtrious Elector <hi>Palatine.</hi>
+                  <list>
+                     <item>
+                        <hi>Abrahamus Scultetus,</hi> Doctor in Diuinitie, and Profeſſor at Heidelberg.</item>
+                     <item>
+                        <hi>Paulus Toſſanus,</hi> Doctor in Diuinitie, and Coun<g ref="char:EOLhyphen"/>celor in the Eccleſiaſticall Senate of the Electorat.</item>
+                     <item>
+                        <hi>Henricus Altingius,</hi> Doctor in Diuinitie, and Profeſſor at Heydelberg.</item>
+                  </list>
+               </item>
+               <pb n="5" facs="tcp:10624:7"/>
+               <item> 
+                  <hi>3</hi> From the illuſtrious Lantgraue of Haſſe.
+<list>
+                     <item>
+                        <hi>Georgius Cruciger,</hi> Doctor in Diuinitie, Profeſ<g ref="char:EOLhyphen"/>ſor and Rector in the Vniuerſity of Marpurg.</item>
+                     <item>
+                        <hi>Paulus Steinius,</hi> Preacher in the Court at Caſſel.</item>
+                     <item>
+                        <hi>Daniel Angeloerator,</hi> Superintendent of the Churches in vpper Haſſia.</item>
+                     <item>
+                        <hi>Rodolphus Goclenius,</hi> Senior Profeſſor in the Vni<g ref="char:EOLhyphen"/>uerſity of Marpurg.</item>
+                  </list>
+               </item>
+               <item> 
+                  <hi>4</hi> From the foure Cantons of Heluetia reformed.
+<list>
+                     <item>
+                        <hi>Iohannes Iacobus Breitingerus,</hi> Preacher at Zu<g ref="char:EOLhyphen"/>rich.</item>
+                     <item>
+                        <hi>Marcus Rutimeyerus,</hi> Doctor in Diuinitie at Berne.</item>
+                     <item>
+                        <hi>Sebaſtianus Beckius,</hi> Doctor in Diuinitie, and Profeſſor in the Vniuerſitie of Baſel.</item>
+                     <item>
+                        <hi>Wolfgangus Mayerus,</hi> Doctor in Diuinitie, and Preacher at Baſel.</item>
+                     <item>
+                        <hi>Iohannes Conradus Cochius,</hi> Preacher at Schafhu<g ref="char:EOLhyphen"/>ſen.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>5</hi> From the Church and Commonwealth of Geneva.
+<list>
+                     <item>
+                        <hi>Iohannes Deodatus,</hi> Profeſſor and Preacher at Geneua.</item>
+                     <item>
+                        <hi>Theodorus Tronchinus,</hi> Profeſſor and Preacher at Geneua.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>6</hi> From the Church and Commonwealth of Brema.
+<list>
+                     <item>
+                        <hi>Matthias Martinius,</hi> Profeſſor and Rector of Brema.</item>
+                     <pb n="6" facs="tcp:10624:8"/>
+                     <item> 
+                        <hi>Henricus Iſſelburgius,</hi> Profeſſor and Paſtor of Brema, Doctor in Diuinitie.</item>
+                     <item>
+                        <hi>Ludovicus Croicus,</hi> Doctor in Diuinitie, and Pro<g ref="char:EOLhyphen"/>feſſor at Brema.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>7</hi> From the Church and Commonwealth of Emden.
+<list>
+                     <item>
+                        <hi>Daniel Elſhemius,</hi> Preacher of Emden.</item>
+                     <item>
+                        <hi>Ritſius Lucae,</hi> Preacher of Emden.</item>
+                     <item>
+                        <hi>From France, Brandenburg, and Naſſau are none come.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>8</hi> The Profeſſors and Readers in Diuinitie in the Vniuerſities and Schooles of the Vnited Prouinces.
+<list>
+                     <item>
+                        <hi>Ioannes Polyander,</hi> Profeſſor and Rector of Lei<g ref="char:EOLhyphen"/>den.</item>
+                     <item>
+                        <hi>Sibrandus Lubbertus,</hi> Doctor in Diuinitie, and Profeſſor of Franeker.</item>
+                     <item>
+                        <hi>Franciſcus Gomarus,</hi> Doctor in Diuinitie, and Pro<g ref="char:EOLhyphen"/>feſſor at Groninge.</item>
+                     <item>
+                        <hi>Anthonius Tyſius,</hi> profeſſor at Harderwyck.</item>
+                     <item>
+                        <hi>Anthonius Walaeus,</hi> profeſſor at Middelburg.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>The reuerend Paſtors and Elders ſent from the pro<g ref="char:EOLhyphen"/>vinciall Synods to the Nationall.</head>
+               <item>
+                  <hi>1</hi> From Geldria and Zutphen.
+<list>
+                     <item>
+                        <hi>GVlielmus Stephani,</hi> Doctor in Diuinitie, and preacher at Aernhem.</item>
+                     <pb n="7" facs="tcp:10624:8"/>
+                     <item> 
+                        <hi>Sebaſtianus Dammannus,</hi> preacher at Zutphen.</item>
+                     <item>
+                        <hi>Ioannes Bouilletus,</hi> preacher at Warnfeld.</item>
+                     <item>
+                        <hi>Eilhardus à Mehen,</hi> preacher at Harderwick.</item>
+                     <item>
+                        <hi>Iacobus Verheiden,</hi> Rector of the Schoole of Ni<g ref="char:EOLhyphen"/>eumegen, and Elder.</item>
+                     <item>
+                        <hi>Henricus ab Hell</hi> Eſquire, of Zutphen, Elder.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>2</hi> From South-Holland.
+<list>
+                     <item>
+                        <hi>Balthaſar Lydius,</hi> preacher at Dort.</item>
+                     <item>
+                        <hi>Henricus Arnoldi,</hi> preacher at Delft.</item>
+                     <item>
+                        <hi>Feſtus Hommius,</hi> preacher at Leiden.</item>
+                     <item>
+                        <hi>Gisbertus Voetius,</hi> preacher at Heuſden.</item>
+                     <item>
+                        <hi>Arnoldus Muys</hi> of Holy, of Dort, Elder.</item>
+                     <item>
+                        <hi>Ioannes Latius</hi> of Leyden, Elder.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>3</hi> From North-Holland.
+<list>
+                     <item>
+                        <hi>Iacobus Roelandus,</hi> preacher of Amſterdam.</item>
+                     <item>
+                        <hi>Iacobus Triglandus,</hi> preacher of Amſterdam.</item>
+                     <item>
+                        <hi>Abrahamus Doreſlaer,</hi> preacher of Enchuſen.</item>
+                     <item>
+                        <hi>Samuel Bartholdus,</hi> preacher of Monickendam.</item>
+                     <item>
+                        <hi>D. Dominicus ab Heemskerch</hi> of Alckmar, Elder.</item>
+                     <item>
+                        <hi>Theodorus Heynck</hi> of Amſterdam, Elder.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>4</hi> From Seeland.
+<list>
+                     <item>
+                        <hi>Hermanus Foukelius,</hi> preacher of Middelburg.</item>
+                     <item>
+                        <hi>Godefredus Vdemannus,</hi> preacher of Zirickſee.</item>
+                     <item>
+                        <hi>Cornelius Regius,</hi> preacher of Tergoes.</item>
+                     <item>
+                        <hi>Lambertus de Rycke,</hi> preacher at Bergen-op-zoom.</item>
+                     <pb n="8" facs="tcp:10624:9"/>
+                     <item> 
+                        <hi>Ioſias Vosbergius,</hi> Maſter of the Accounts of See<g ref="char:EOLhyphen"/>land, and of Middelbourg, Elder.</item>
+                     <item>
+                        <hi>Hadrianus Hofferus,</hi> Councellor of Sierickſee, Elder.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>5</hi> From Vtrecht in the name of the Contra-Remonſtrants.
+<list>
+                     <item>
+                        <hi>Iohannes Debetius,</hi> Preacher at Dort.</item>
+                     <item>
+                        <hi>Arnoldus Oortcampius,</hi> Preacher at Amersfort.</item>
+                     <item>
+                        <hi>Lambertus Canterus</hi> Eſquire, and of Vtrecht, El<g ref="char:EOLhyphen"/>der.</item>
+                     <item>
+                        <hi>From Vtrecht in the name of the Remonſtrants.</hi>
+                     </item>
+                     <item>
+                        <hi>Iſaacus Frederici,</hi> Preacher of Vtrecht.</item>
+                     <item>
+                        <hi>Samuel Neranus,</hi> Preacher of Amersfort.</item>
+                     <item>
+                        <hi>D. Stephanus Helſdingius,</hi> Councelor of Vtrecht and Elder.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>6</hi> From Frieſland.
+<list>
+                     <item>
+                        <hi>Iohannes Bogermannus,</hi> Preacher of Leeuwarden.</item>
+                     <item>
+                        <hi>Florentius Ioannis,</hi> Preacher of Sneeck.</item>
+                     <item>
+                        <hi>Philippus Danielis,</hi> Preacher of Harlingen.</item>
+                     <item>
+                        <hi>Meynardus ab Idſerda,</hi> one of the States of Frieſ<g ref="char:EOLhyphen"/>land, and Elder.</item>
+                     <item>
+                        <hi>Kempo à Donia,</hi> Councelor and Elder of Leeu<g ref="char:EOLhyphen"/>warden.</item>
+                     <item>
+                        <hi>Iohannes Sandius,</hi> Councelor and Elder of Leeu<g ref="char:EOLhyphen"/>warden.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>7</hi> From Oueryſſell.
+<list>
+                     <item>
+                        <hi>Caſparus Sibellius,</hi> Preacher of Deuenter.</item>
+                     <item>
+                        <hi>Hieronymus Vogelius,</hi> Preacher of Haſſelt.</item>
+                     <pb n="9" facs="tcp:10624:9"/>
+                     <item> 
+                        <hi>Hermannus Wiferdingius,</hi> preacher of Swol.</item>
+                     <item>
+                        <hi>Ioannes Langius,</hi> preacher of Vollenhoue.</item>
+                     <item>
+                        <hi>Willelmus à Brockhuyſen</hi> Eſquire, and Elder.</item>
+                     <item>
+                        <hi>Ioannes à Lauicke,</hi> Bourgmaſter of Campen, and Elder.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>8</hi> From Groningen and Omlands.
+<list>
+                     <item>
+                        <hi>Cornelius Hillenius,</hi> preacher of Groningen.</item>
+                     <item>
+                        <hi>Georgius Placius,</hi> preacher of Abingadam.</item>
+                     <item>
+                        <hi>Wolfgangus Agricola,</hi> preacher of Behem.</item>
+                     <item>
+                        <hi>Ioannes Lolingius,</hi> preacher of Noortbrock.</item>
+                     <item>
+                        <hi>Egbertus Halbes Licentiatus Iuris,</hi> and Elder.</item>
+                     <item>
+                        <hi>Ioannes Ruffelart</hi> Eſquire at Stem, and Elder.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>9</hi> From the Drente.
+<list>
+                     <item>
+                        <hi>Temo Aſſchenbergius,</hi> preacher at Meppel.</item>
+                     <item>
+                        <hi>Patroclus Rummelingus,</hi> preacher at Rhuynen.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>10</hi> From the Gallo-belgicke Churches.
+<list>
+                     <item>
+                        <hi>Daniel Colonius,</hi> Regent of the Colledge of French Students in Leyden.</item>
+                     <item>
+                        <hi>Ioannes Crucius,</hi> preacher of Haerlem.</item>
+                     <item>
+                        <hi>Ioannes Doucher,</hi> preacher at Fliſſing.</item>
+                     <item>
+                        <hi>Ieremias de Pours,</hi> preacher at Middelbourg.</item>
+                     <item>
+                        <hi>Euerardus Becker</hi> of Middelbourg, Elder.</item>
+                     <item>
+                        <hi>Petrus Pontanus</hi> of Amſterdam, Elder.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>The names of the chiefe Remonſtrants or <hi>Arminians,</hi> cited to the Synode.</head>
+               <item>
+                  <list>
+                     <item>From Gelderland.
+<list>
+                           <item>
+                              <hi>Henricus Leo,</hi> preacher of Bommell.</item>
+                           <pb n="10" facs="tcp:10624:10"/>
+                           <item> 
+                              <hi>Bernerus Weſekius,</hi> preacher of Echſtenſtan.</item>
+                           <item>
+                              <hi>Henricus Hollingerus,</hi> Preacher of the Graue.</item>
+                        </list>
+                     </item>
+                     <item>From Souh-Holland.
+<list>
+                           <item>
+                              <hi>Symon Epiſcopius,</hi> Profeſſor at Leyden.</item>
+                           <item>
+                              <hi>Ioannes Arnoldus Coruinus,</hi> Preacher at Leyden.</item>
+                           <item>
+                              <hi>Bernardus Dwinglo,</hi> Preacher at Leyden.</item>
+                           <item>
+                              <hi>Edwardus Poppius,</hi> preacher at Ter-Goude,</item>
+                           <item>
+                              <hi>Theophilus Rickweert,</hi> preacher at the Briell.</item>
+                        </list>
+                     </item>
+                     <item>From North-Holland.
+<list>
+                           <item>
+                              <hi>Philippus Pynakerus,</hi> preacher at Alckmar.</item>
+                           <item>
+                              <hi>Dominicus Sapma,</hi> preacher at Horne.</item>
+                        </list>
+                     </item>
+                     <item>From Oueryſell.
+<list>
+                           <item>
+                              <hi>Thomas Goſwinus,</hi> preacher at Campen.</item>
+                           <item>
+                              <hi>Aſſuerus Matthiſius,</hi> preacher at Campen.</item>
+                        </list>
+                     </item>
+                     <item>From Vtrecht.
+<list>
+                           <item>
+                              <hi>Carolus Nielius,</hi> preacher in the French Church.</item>
+                        </list>
+                     </item>
+                     <item>The Preſident of the Synode.
+<list>
+                           <item>
+                              <hi>Ioannes Bogermannus,</hi> preacher of Leeuwarden.</item>
+                        </list>
+                     </item>
+                     <item>The Aſſeſſores or Aſsiſtants.
+<list>
+                           <item>
+                              <hi>Iacobus Rolandus,</hi> and <hi>Hermannus Faukelius.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>The Notaries, or Secretaries.
+<list>
+                           <item>
+                              <hi>Sebaſtianus Dammannus,</hi> and <hi>Feſtus Hommius.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:10624:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
